@@ -1,0 +1,14 @@
+C:\Users\ivan\AppData\Local\Temporary Projects\LeQing\bin\Debug\LeQing.exe.config
+D:\專案\LeQing\LeQing\bin\Debug\LeQing.exe.config
+D:\專案\LeQing\LeQing\obj\Debug\LeQing.csprojResolveAssemblyReference.cache
+D:\專案\LeQing\LeQing\obj\Debug\LeQing.Form1.resources
+D:\專案\LeQing\LeQing\obj\Debug\LeQing.Properties.Resources.resources
+D:\專案\LeQing\LeQing\obj\Debug\LeQing.csproj.GenerateResource.Cache
+D:\專案\LeQing\LeQing\bin\Debug\LeQing.exe
+D:\專案\LeQing\LeQing\bin\Debug\LeQing.pdb
+D:\專案\LeQing\LeQing\obj\Debug\LeQing.exe
+D:\專案\LeQing\LeQing\obj\Debug\LeQing.pdb
+D:\專案\LeQing\LeQing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tiger\Desktop\LeQing\LeQing\bin\Debug\LeQing.exe.config
+C:\Users\tiger\Desktop\LeQing\LeQing\obj\Debug\LeQing.exe
+C:\Users\tiger\Desktop\LeQing\LeQing\obj\Debug\LeQing.pdb

@@ -1,0 +1,33 @@
+2020/5/18 下午 05:24:27::Message:Load: 程式啟動!!
+2020/5/18 下午 05:24:47::Message:getCallID: iChannel::0,par1::in,par2::0918187027
+2020/5/18 下午 05:25:15::move: 0918187027::172510_IN_1_0918187027.wav
+2020/5/18 下午 05:27:15::Message:Load: 程式啟動!!
+2020/5/18 下午 05:27:34::Message:getCallID: iChannel::0,par1::in,par2::0918187027
+2020/5/18 下午 05:28:11::move: 0918187027::172810_IN_1_0918187027.wav
+2020/5/18 下午 05:29:32::Message:Load: 程式啟動!!
+2020/5/18 下午 05:29:54::Message:getCallID: iChannel::0,par1::in,par2::0918187027
+2020/5/18 下午 05:30:21::Exception Message:getCallID: 無法連接至遠端伺服器
+2020/5/18 下午 05:30:21::move: 0918187027::173021_IN_1_0918187027.wav
+2020/5/18 下午 05:31:17::Message:getCallID: iChannel::0,par1::in,par2::0918187027
+2020/5/18 下午 05:31:40::Exception Message:getCallID: 無法連接至遠端伺服器
+2020/5/18 下午 05:31:41::move: 0918187027::173021_IN_1_0918187027.wav
+2020/5/18 下午 06:15:48::Message:Load: 程式啟動!!
+2020/5/18 下午 06:16:24::Message:getCallID: iChannel::0,par1::in,par2::0918187027
+2020/5/18 下午 06:17:01::Exception Message:getCallID: 無法連接至遠端伺服器
+2020/5/18 下午 06:17:01::move: 0918187027::181701_IN_1_0918187027.wav
+2020/5/18 下午 06:17:22::Exception Message:putWave: 無法連接至遠端伺服器
+2020/5/18 下午 06:17:57::Message:Load: 程式啟動!!
+2020/5/18 下午 06:19:12::Message:getCallID: iChannel::0,par1::in,par2::0918187027
+2020/5/18 下午 06:19:35::Exception Message:getCallID: 無法連接至遠端伺服器
+2020/5/18 下午 06:19:35::move: 0918187027::181935_IN_1_0918187027.wav
+2020/5/18 下午 06:19:57::Exception Message:putWave: 無法連接至遠端伺服器
+2020/5/18 下午 06:20:14::Message:Load: 程式啟動!!
+2020/5/18 下午 06:20:28::Message:getCallID: iChannel::0,par1::in,par2::0918187027
+2020/5/18 下午 06:20:52::Exception Message:getCallID: 無法連接至遠端伺服器
+2020/5/18 下午 06:21:11::move: 0918187027::182111_IN_1_0918187027.wav
+2020/5/18 下午 06:21:33::Exception Message:putWave: 無法連接至遠端伺服器
+2020/5/18 下午 06:33:35::Message:Load: 程式啟動!!
+2020/5/18 下午 06:34:09::Message:getCallID: iChannel::0,par1::in,par2::0918187027
+2020/5/18 下午 06:34:32::Exception Message:getCallID: 無法連接至遠端伺服器
+2020/5/18 下午 06:34:32::move: 0918187027::183432_IN_1_0918187027.wav
+2020/5/18 下午 06:34:54::Exception Message:putWave: 無法連接至遠端伺服器
